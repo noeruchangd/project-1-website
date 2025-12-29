@@ -1,4 +1,4 @@
-1. Install node: https://nodejs.org/
+ 1. Install node: https://nodejs.org/
 2. Install maven: https://www.baeldung.com/install-maven-on-windows-linux-mac
 3. run backend: goto directory project1-webapp/backend/project1
    and run the command: mvn spring-boot:run  
